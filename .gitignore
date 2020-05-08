@@ -4,3 +4,5 @@ PupilTracking.vcxproj.filters
 PupilTracking.vcxproj.user
 x64
 .vs
+*.avi
+*.csv
